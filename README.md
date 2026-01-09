@@ -46,8 +46,11 @@ pip install requests
 🔐 OpenWeatherMap API Setup
 
 Visit https://openweathermap.org/api
+
 Sign up or log in
+
 Generate an API key
+
 ⚙ Configuration
 Replace the following lines in the code:
 api_key = "ENTER_YOUR_API_KEY_FROM_OPEN_WEATHER_MAP"
